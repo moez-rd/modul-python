@@ -4,6 +4,9 @@ Halo, selamat datang di modul Python :). Modul yang menarik, indah (katanya :v),
 ## Apa Saja Makhluk di Materi Ini?☕
 Kami menyediakan berbagai pembelajaran/referensi yang dipisah per folder, mulai dari materi dasar (tentang pengenalan apa itu ~~ular~~ Python atau kenapa dinamakan Python) hingga materi tak terhingga (kami belum menentukan titik materi ini berakhir).
 
+## Apa Tujuannya?🌵
+Kami ingin mengembangkan modul ini lebih jauh dengan mengutamakan kemudahan dalam memahami materi ini. Di masa depan, kami memiliki tujuan membuat materi tentang *library* *data science*, seperti Pandas, Numpy, dan Matplotlib hingga ke *library* *machine learning*, seperti Scikit Learn, Tensorflow, PyTorch, dan OpenCV. Semuanya bertujuan sebagai referensi agar mudah dalam mengingat fitur-fitur dalam *library*.
+
 ## Daftar Materi📃
 Silakan dipilih.
 
@@ -17,7 +20,7 @@ Silakan dipilih.
 8. [Loop](https://github.com/moez-rd/modul-python/tree/main/8-loop)
 
 ## Kontribusi🧩
-Siapa saja boleh berkontribusi dalam pengembangan modul ini. Kalian dapat langsung mengedit modul ini, lalu *pull request*.
+Pintu terbuka besar bagi Anda yang mau berkontribusi. Siapa saja boleh berkontribusi dalam pengembangan modul ini. Kalian dapat langsung mengedit modul ini, lalu *pull request*.
 
 ## Ucapan Terima Kasih🙏
 Belum ada :).
