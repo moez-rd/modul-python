@@ -23,4 +23,4 @@ Silakan dipilih.
 Pintu terbuka besar bagi Anda yang mau berkontribusi. Siapa saja boleh berkontribusi dalam pengembangan modul ini. Kalian dapat langsung mengedit modul ini, lalu *pull request*.
 
 ## Ucapan Terima Kasih🙏
-Belum ada :).
+Kami mengucapkan terima kasih banyak kepada Gede Pradnyananda dan Sania Fatimah Azzahrah yang telah berkontribusi dalam mengembangkan modul ini.
